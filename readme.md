@@ -87,7 +87,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-02-12.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-02-13.
 
 ### Community driven
 
@@ -141,10 +141,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,093 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 642 | 🐛 23 | 🌐 Python | 📅 2025-12-25 - A python decoder for Mode S and ADS-B signals.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 561 | 🐛 10 | 🌐 C | 📅 2026-02-03 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 562 | 🐛 10 | 🌐 C | 📅 2026-02-03 - ADS-B decoder swiss knife.
 * [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 113 | 🐛 11 | 🌐 Python | 📅 2026-02-07 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
-* [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-02-11 - Python tool to detect, act on, and visualize ADS-B traffic and events.
+* [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-02-12 - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
 ### Feeding
 
@@ -154,7 +154,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,672 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-10 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,674 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-10 - A great way to view your ADS-B data.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
 ### Apps
