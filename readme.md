@@ -148,13 +148,13 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Feeding
 
-* [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 450 | 🐛 0 | 🌐 Shell | 📅 2026-01-28 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
-* [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) ⭐ 139 | 🐛 0 | 🌐 Shell | 📅 2025-08-29 - Easy to use feeder install script for feeding to adsb.fi.
+* [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 452 | 🐛 0 | 🌐 Shell | 📅 2026-01-28 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
+* [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) ⭐ 140 | 🐛 0 | 🌐 Shell | 📅 2025-08-29 - Easy to use feeder install script for feeding to adsb.fi.
 * [adsblol/feed](https://github.com/adsblol/feed) ⭐ 68 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,679 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-10 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,681 | 🐛 52 | 🌐 JavaScript | 📅 2026-02-10 - A great way to view your ADS-B data.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
 ### Apps
