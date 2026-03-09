@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2026-03-08.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2026-03-09.
 
 ### Community driven
 
@@ -143,7 +143,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,096 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 645 | 🐛 24 | 🌐 Python | 📅 2025-12-25 - A python decoder for Mode S and ADS-B signals.
 * [readsb](https://github.com/wiedehopf/readsb) ⭐ 574 | 🐛 9 | 🌐 C | 📅 2026-02-28 - ADS-B decoder swiss knife.
-* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 115 | 🐛 10 | 🌐 Python | 📅 2026-03-07 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
+* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 116 | 🐛 10 | 🌐 Python | 📅 2026-03-08 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-02-27 - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
@@ -151,12 +151,12 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 461 | 🐛 1 | 🌐 Shell | 📅 2026-01-28 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
 * [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) ⭐ 140 | 🐛 0 | 🌐 Shell | 📅 2025-08-29 - Easy to use feeder install script for feeding to adsb.fi.
-* [adsblol/feed](https://github.com/adsblol/feed) ⭐ 70 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
+* [adsblol/feed](https://github.com/adsblol/feed) ⭐ 71 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
 * [adsb.im](https://adsb.im/home) - Simple to use ADS-B Feeder Images. Setup a single board computer (such as Raspberry Pi) to receive and share aircraft ADS-B position reports without command line/terminal skills required. Allows sharing data with both open-source and commercial flight tracking websites.
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,702 | 🐛 53 | 🌐 JavaScript | 📅 2026-03-05 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,705 | 🐛 53 | 🌐 JavaScript | 📅 2026-03-08 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 76 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
@@ -172,7 +172,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Derived Data
 
-* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 22 | 🐛 0 | 📅 2026-03-02 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
+* [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) ⭐ 22 | 🐛 0 | 📅 2026-03-08 - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
 
