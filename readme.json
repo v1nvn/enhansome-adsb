@@ -23,7 +23,7 @@
             "last_commit": "2026-02-28T17:33:02Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 576
+            "stars": 578
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-03-08T16:30:07Z",
             "owner": "sdr-enthusiasts",
             "repo": "plane-alert-db",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-03-08T11:33:05Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1712
+            "stars": 1715
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:04:48.500Z",
+    "last_updated": "2026-03-12T04:09:06.093Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
