@@ -6,7 +6,7 @@
 
 <!--lint ignore double-link-->
 
-# <a style="color: inherit" href="https://github.com/rickstaa/awesome-adsb">Awesome ADS-B</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/stargazers) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 <!-- omit in toc -->
+# <a style="color: inherit" href="https://github.com/rickstaa/awesome-adsb">Awesome ADS-B</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/stargazers) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 <!-- omit in toc -->
 
 > **Note**
 > Just type `adsb.cool` to go here.
@@ -77,7 +77,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -88,7 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 * [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 * [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 * [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
-* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 16 | 🐛 0 | 🌐 Shell | 📅 2026-03-14.
+* [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2026-03-15.
 
 ### Community driven
 
@@ -209,9 +209,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **TODO:**
-> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 if you know people in the ADS-B space that are worth following.
+> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25 if you know people in the ADS-B space that are worth following.
 
-Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25?
+Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25?
 
 <!-- END CONTENT -->
 
@@ -233,7 +233,7 @@ Contributions of any kind are welcome 💙! Please check out the [contributing g
 
 <!--lint ignore double-link-->
 
-This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2026-02-25!
+This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-02-25!
 
 <!--lint ignore double-link-->
 
