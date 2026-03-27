@@ -23,7 +23,7 @@
             "last_commit": "2026-02-28T17:33:02Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-12-25T10:34:20Z",
             "owner": "junzis",
             "repo": "pyModeS",
-            "stars": 654
+            "stars": 655
           }
         },
         {
@@ -107,7 +107,7 @@
             "last_commit": "2026-01-28T21:07:54Z",
             "owner": "sdr-enthusiasts",
             "repo": "docker-adsb-ultrafeeder",
-            "stars": 473
+            "stars": 472
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-03-25T13:34:21Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1726
+            "stars": 1727
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:29:08.355Z",
+    "last_updated": "2026-03-27T04:30:23.426Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
