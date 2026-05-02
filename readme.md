@@ -140,10 +140,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### General
 
-* [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,098 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
+* [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,097 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 658 | 🐛 10 | 🌐 Python | 📅 2026-04-21 - A python decoder for Mode S and ADS-B signals.
 * [readsb](https://github.com/wiedehopf/readsb) ⭐ 597 | 🐛 10 | 🌐 C | 📅 2026-04-26 - ADS-B decoder swiss knife.
-* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 128 | 🐛 9 | 🌐 Python | 📅 2026-04-27 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
+* [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 129 | 🐛 10 | 🌐 Python | 📅 2026-05-02 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-04-26 - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
@@ -156,7 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,768 | 🐛 56 | 🌐 JavaScript | 📅 2026-04-26 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,771 | 🐛 55 | 🌐 JavaScript | 📅 2026-05-01 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 78 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
