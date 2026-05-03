@@ -142,7 +142,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,097 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 658 | 🐛 10 | 🌐 Python | 📅 2026-04-21 - A python decoder for Mode S and ADS-B signals.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 597 | 🐛 10 | 🌐 C | 📅 2026-04-26 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 598 | 🐛 10 | 🌐 C | 📅 2026-04-26 - ADS-B decoder swiss knife.
 * [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 129 | 🐛 10 | 🌐 Python | 📅 2026-05-02 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-04-26 - Python tool to detect, act on, and visualize ADS-B traffic and events.
@@ -151,12 +151,12 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 504 | 🐛 9 | 🌐 Shell | 📅 2026-04-14 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
 * [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) ⭐ 146 | 🐛 0 | 🌐 Shell | 📅 2025-08-29 - Easy to use feeder install script for feeding to adsb.fi.
-* [adsblol/feed](https://github.com/adsblol/feed) ⭐ 74 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
+* [adsblol/feed](https://github.com/adsblol/feed) ⭐ 75 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
 * [adsb.im](https://adsb.im/home) - Simple to use ADS-B Feeder Images. Setup a single board computer (such as Raspberry Pi) to receive and share aircraft ADS-B position reports without command line/terminal skills required. Allows sharing data with both open-source and commercial flight tracking websites.
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,771 | 🐛 55 | 🌐 JavaScript | 📅 2026-05-01 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,772 | 🐛 55 | 🌐 JavaScript | 📅 2026-05-01 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 78 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
