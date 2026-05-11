@@ -23,7 +23,7 @@
             "last_commit": "2026-05-05T08:11:27Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-07T13:01:22Z",
+            "last_commit": "2026-05-10T15:52:31Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1776
+            "stars": 1777
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-05T05:52:03Z",
             "owner": "Jxck-S",
             "repo": "plane-notify",
-            "stars": 2546
+            "stars": 2547
           }
         }
       ],
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:32:57.217Z",
+    "last_updated": "2026-05-11T05:53:54.838Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
