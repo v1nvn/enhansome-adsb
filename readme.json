@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-12T04:32:48Z",
+            "last_commit": "2026-05-13T18:12:08Z",
             "owner": "wiedehopf",
             "repo": "readsb",
             "stars": 605
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-09T14:41:26Z",
+            "last_commit": "2026-05-14T03:33:02Z",
             "owner": "eastham",
             "repo": "adsb_actions",
             "stars": 3
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:43:35.816Z",
+    "last_updated": "2026-05-14T05:42:49.318Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
