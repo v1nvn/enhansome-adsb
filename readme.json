@@ -120,7 +120,7 @@
             "last_commit": "2025-08-29T19:42:15Z",
             "owner": "adsbfi",
             "repo": "adsb-fi-scripts",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-05-14T15:24:50Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1781
+            "stars": 1783
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-05T05:52:03Z",
             "owner": "Jxck-S",
             "repo": "plane-notify",
-            "stars": 2546
+            "stars": 2548
           }
         }
       ],
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:22:40.701Z",
+    "last_updated": "2026-05-17T05:43:28.618Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
