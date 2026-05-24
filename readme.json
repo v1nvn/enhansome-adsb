@@ -23,7 +23,7 @@
             "last_commit": "2026-05-13T18:12:08Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 605
+            "stars": 607
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-08-29T19:42:15Z",
             "owner": "adsbfi",
             "repo": "adsb-fi-scripts",
-            "stars": 149
+            "stars": 150
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:35:34.169Z",
+    "last_updated": "2026-05-24T05:56:51.130Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
