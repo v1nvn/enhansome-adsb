@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-13T18:12:08Z",
+            "last_commit": "2026-05-27T22:08:31Z",
             "owner": "wiedehopf",
             "repo": "readsb",
             "stars": 607
@@ -157,7 +157,7 @@
             "last_commit": "2026-05-26T09:29:46Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1790
+            "stars": 1791
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:14:05.753Z",
+    "last_updated": "2026-05-28T06:05:58.944Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
