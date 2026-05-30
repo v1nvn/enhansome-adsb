@@ -6,7 +6,7 @@
 
 <!--lint ignore double-link-->
 
-# <a style="color: inherit" href="https://github.com/rickstaa/awesome-adsb">Awesome ADS-B</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/stargazers) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 <!-- omit in toc -->
+# <a style="color: inherit" href="https://github.com/rickstaa/awesome-adsb">Awesome ADS-B</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/stargazers) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 <!-- omit in toc -->
 
 > **Note**
 > Just type `adsb.cool` to go here.
@@ -77,7 +77,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -142,21 +142,21 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 * [dump1090](https://github.com/MalcolmRobb/dump1090) ⭐ 1,097 | 🐛 39 | 🌐 C | 📅 2024-08-14 - A simple Mode S decoder for RTLSDR devices.
 * [junzis/pyModeS](https://github.com/junzis/pyModeS) ⭐ 659 | 🐛 10 | 🌐 Python | 📅 2026-04-21 - A python decoder for Mode S and ADS-B signals.
-* [readsb](https://github.com/wiedehopf/readsb) ⭐ 608 | 🐛 11 | 🌐 C | 📅 2026-05-27 - ADS-B decoder swiss knife.
+* [readsb](https://github.com/wiedehopf/readsb) ⭐ 609 | 🐛 11 | 🌐 C | 📅 2026-05-27 - ADS-B decoder swiss knife.
 * [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) ⭐ 132 | 🐛 8 | 🌐 Python | 📅 2026-05-14 - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 * [flightmon](https://github.com/mik3y/flightmon) ⭐ 19 | 🐛 1 | 🌐 Go | 📅 2020-06-13 - Simple command-line "GUI" for showing current dump1090/readsb data.
 * [adsb\_actions](https://github.com/eastham/adsb_actions) ⭐ 3 | 🐛 8 | 🌐 Python | 📅 2026-05-15 - Python tool to detect, act on, and visualize ADS-B traffic and events.
 
 ### Feeding
 
-* [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 518 | 🐛 5 | 🌐 Shell | 📅 2026-05-14 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
+* [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) ⭐ 518 | 🐛 6 | 🌐 Shell | 📅 2026-05-30 - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
 * [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) ⭐ 152 | 🐛 0 | 🌐 Shell | 📅 2025-08-29 - Easy to use feeder install script for feeding to adsb.fi.
 * [adsblol/feed](https://github.com/adsblol/feed) ⭐ 75 | 🐛 3 | 🌐 Shell | 📅 2024-10-18 - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
 * [adsb.im](https://adsb.im/home) - Simple to use ADS-B Feeder Images. Setup a single board computer (such as Raspberry Pi) to receive and share aircraft ADS-B position reports without command line/terminal skills required. Allows sharing data with both open-source and commercial flight tracking websites.
 
 ### Visualisation
 
-* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,791 | 🐛 56 | 🌐 JavaScript | 📅 2026-05-26 - A great way to view your ADS-B data.
+* [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) ⭐ 1,791 | 🐛 57 | 🌐 JavaScript | 📅 2026-05-26 - A great way to view your ADS-B data.
 * [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) ⭐ 80 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03 - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 * [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
@@ -209,9 +209,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **TODO:**
-> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 if you know people in the ADS-B space that are worth following.
+> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14 if you know people in the ADS-B space that are worth following.
 
-Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14?
+Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issues/new?assignees=\&labels=\&template=suggestion.yaml) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14?
 
 <!-- END CONTENT -->
 
@@ -233,7 +233,7 @@ Contributions of any kind are welcome 💙! Please check out the [contributing g
 
 <!--lint ignore double-link-->
 
-This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 313 | 🐛 6 | 🌐 HTML | 📅 2026-04-14!
+This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors) ⭐ 314 | 🐛 6 | 🌐 HTML | 📅 2026-04-14!
 
 <!--lint ignore double-link-->
 

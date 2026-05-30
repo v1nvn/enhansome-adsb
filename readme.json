@@ -23,7 +23,7 @@
             "last_commit": "2026-05-27T22:08:31Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 608
+            "stars": 609
           }
         },
         {
@@ -104,7 +104,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-05-14T15:26:30Z",
+            "last_commit": "2026-05-30T00:53:49Z",
             "owner": "sdr-enthusiasts",
             "repo": "docker-adsb-ultrafeeder",
             "stars": 518
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:07:15.410Z",
+    "last_updated": "2026-05-30T05:43:01.662Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
