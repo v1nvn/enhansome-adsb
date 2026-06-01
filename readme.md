@@ -167,7 +167,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Social
 
-* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,548 | 🐛 11 | 🌐 Python | 📅 2026-02-05 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
+* [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) ⭐ 2,547 | 🐛 11 | 🌐 Python | 📅 2026-02-05 - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 * [docker-planefence](https://github.com/kx1t/docker-planefence) ⭐ 5 | 🐛 0 | 📅 2025-03-12 - A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).
 
 ## ADS-B Derived Data
