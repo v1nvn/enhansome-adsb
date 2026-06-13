@@ -23,7 +23,7 @@
             "last_commit": "2026-06-08T20:12:46Z",
             "owner": "wiedehopf",
             "repo": "readsb",
-            "stars": 615
+            "stars": 616
           }
         },
         {
@@ -36,7 +36,7 @@
             "last_commit": "2024-08-14T23:53:13Z",
             "owner": "MalcolmRobb",
             "repo": "dump1090",
-            "stars": 1095
+            "stars": 1096
           }
         },
         {
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T03:02:26Z",
+            "last_commit": "2026-06-12T20:45:10Z",
             "owner": "eastham",
             "repo": "adsb_actions",
             "stars": 3
@@ -107,7 +107,7 @@
             "last_commit": "2026-06-08T00:00:39Z",
             "owner": "sdr-enthusiasts",
             "repo": "docker-adsb-ultrafeeder",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-06-07T16:33:29Z",
             "owner": "wiedehopf",
             "repo": "tar1090",
-            "stars": 1804
+            "stars": 1806
           }
         },
         {
@@ -235,7 +235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:28:18.129Z",
+    "last_updated": "2026-06-13T06:11:11.402Z",
     "original_repository": "rickstaa/awesome-adsb",
     "source_repository": "v1nvn/enhansome-adsb",
     "source_repository_description": null,
